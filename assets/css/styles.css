@@ -112,3 +112,8 @@ h1 {
   }
 }
 
+.ref-button.preview-toggle {
+  color: #ffffff;
+  background-color: #343434;
+}
+
