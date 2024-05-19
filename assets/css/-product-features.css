@@ -131,10 +131,6 @@ img {
   }
 }
 
-.text-center {
-  text-align: center!important;
-}
-
 p {
   padding: 0;
   margin: 0 0 30px 0;
@@ -188,5 +184,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 10px;
+}
+
+.ref-button.ref-close-button {
+  background-color: #333333;
 }
 
