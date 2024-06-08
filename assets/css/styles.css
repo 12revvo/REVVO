@@ -125,3 +125,9 @@ h1 {
   text-: center!important;
 }
 
+.text-primary {
+  color: #ffffff;
+  --bs-text-opacity: 1;
+  /*color: rgba(var(--bs-primary-rgb),var(--bs-text-opacity))!important;*/
+}
+

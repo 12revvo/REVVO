@@ -190,3 +190,23 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #333333;
 }
 
+.ref-button.ref-sign-out {
+  position: relative;
+  left: 59px;
+  background-color: #333333;
+  font-size: 13px;
+}
+
+.ref-profile-info {
+  position: relative;
+  left: -110px;
+}
+
+.ref-button.ref-sign-in {
+  background-color: #333333;
+}
+
+.ref-button {
+  background-color: #333333;
+}
+
