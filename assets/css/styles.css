@@ -113,6 +113,8 @@ h1 {
 }
 
 .ref-button.preview-toggle {
+  margin-left: 110px;
+  width: 40%;
   color: #ffffff;
   background-color: #343434;
 }
