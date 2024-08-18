@@ -1,0 +1,26 @@
+.ref-button {
+  /*padding: 500px;*/
+  display: block;
+  background-color: #333333;
+}
+
+* {
+}
+
+* {
+  outline: none;
+}
+
+button, input, optgroup, select, textarea {
+  background-color: #333333;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+[type=button], [type=reset], [type=submit], button {
+  background-color: #ef1a1a;
+  -webkit-appearance: button;
+}
+
