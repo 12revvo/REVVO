@@ -131,3 +131,16 @@ h1 {
   /*color: rgba(var(--bs-primary-rgb),var(--bs-text-opacity))!important;*/
 }
 
+button, input, optgroup, select, textarea {
+  background-color: #333333;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+[type=button], [type=reset], [type=submit], button {
+  background-color: #ef1a1a;
+  -webkit-appearance: button;
+}
+
